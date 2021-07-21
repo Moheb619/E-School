@@ -1,0 +1,36 @@
+.btn-success {
+  border-radius: 33px;
+  background-color: #21b573;
+}
+.navbar-nav {
+  margin-left: auto;
+}
+.nav-logo {
+  width: 198.07px;
+  height: 59px;
+}
+#Navbar {
+  background-color: #f0fff0;
+}
+#cover img {
+  height: 93%;
+  width: 91%;
+  max-width: 640px;
+}
+.cover-text {
+  width: 405px;
+}
+.cover-text p {
+  font-size: 16px;
+}
+.cover-text .p1 {
+  color: #fd511a;
+}
+.cover-text .p2 {
+  color: #6c6b6b;
+}
+.cover-text h1 {
+  line-height: 70px;
+  font-weight: 700;
+  font-family: "Poppins-Bold";
+}
