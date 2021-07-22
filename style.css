@@ -92,7 +92,9 @@
   padding-left: 0;
 }
 #footer h5 {
-  font-weight: bold;
+  font-weight: 700;
+  text-decoration-line: underline;
+  color: rgb(27, 205, 236);
 }
 .starting-footer {
   width: 25%;
