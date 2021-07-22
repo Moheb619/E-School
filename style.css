@@ -71,3 +71,37 @@
 #courses .text-muted {
   font-size: 14px;
 }
+.bio img {
+  height: 120px;
+  width: 120px;
+}
+.bio p {
+  width: 580px;
+}
+#about h2 {
+  line-height: 54px;
+  font-weight: 700;
+}
+#footer {
+  background-color: #282531;
+  color: white;
+  margin-bottom: -20px !important;
+}
+#footer ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+#footer h5 {
+  font-weight: bold;
+}
+.starting-footer {
+  width: 25%;
+}
+#copyright {
+  color: #cdcdcd;
+}
+@media (max-width: 770px) {
+  .starting-footer {
+    width: 100%;
+  }
+}
